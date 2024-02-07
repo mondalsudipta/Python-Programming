@@ -1,4 +1,4 @@
 # Python-Programming
 
-I tried to use python for practice to deal with basic programming concepts and problems.
+I experimented with Python to gain hands-on experience in tackling fundamental programming concepts and challenges.
 Inspired from: [url here](https://www.linkedin.com/feed/update/urn:li:activity:7152627967825707008/)https://www.linkedin.com/feed/update/urn:li:activity:7152627967825707008/
